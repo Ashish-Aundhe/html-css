@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+	<head>
+	
+	</head>
+	<body>
+	  <h1>Form Tag </h1>
+	<form action="">
+ 		 <input type="radio" >
+ 		 <label for="html">HTML</label>
+		<br>
+ 		 <input type="radio">
+ 		 <label for="css">CSS</label>
+		<br>	
+		 <input type="radio" >
+ 		 <label for="javascript">JavaScript</label>
+		<br>
+		<input type="submit" value="Submit">
+</form>
+	</body>
+</html>
